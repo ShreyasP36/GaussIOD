@@ -16,8 +16,8 @@ The provided script includes the following features:
 - **Newton-Raphson Method**: An iterative numerical technique used for finding successively better approximations to the roots (or zeroes) of a real-valued function.
 - **Universal Kepler Equation**: A generalized form of Kepler's equation that applies to all types of orbits (elliptical, parabolic, hyperbolic) and is used to compute the position of an orbiting body over time.
 - **Stumpff Functions**: Special functions used in solving Kepler's equation for orbital motion.
-- **Iterative Improvement**: Enhances the accuracy of the determined orbit by iterating on the calculated ranges, following Algorithm 5.6 from [Orbital Mechanics for Engineering Students, 2nd Edition](https://www.sciencedirect.com/book/9780080977478/orbital-mechanics-for-engineering-students)
-- **Orbital Elements Calculation**: Extracts orbital elements from the state vector using Algorithm 4.2 from [Orbital Mechanics for Engineering Students, 2nd Edition](https://www.sciencedirect.com/book/9780080977478/orbital-mechanics-for-engineering-students)
+- **Iterative Improvement**: Enhances the accuracy of the determined orbit by iterating on the calculated ranges, following *Algorithm 5.6* from [Orbital Mechanics for Engineering Students, 2nd Edition](https://www.sciencedirect.com/book/9780080977478/orbital-mechanics-for-engineering-students)
+- **Orbital Elements Calculation**: Extracts orbital elements from the state vector using *Algorithm 4.2* from [Orbital Mechanics for Engineering Students, 2nd Edition](https://www.sciencedirect.com/book/9780080977478/orbital-mechanics-for-engineering-students)
 
 ## Getting Started
 Clone the repository and run the MATLAB script to execute the orbit determination process. Ensure MATLAB is installed on your system.
