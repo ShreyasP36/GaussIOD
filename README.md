@@ -1,5 +1,5 @@
 # Gauss Method for Preliminary Orbit Determination
-This repository contains MATLAB code for implementing the Gauss method to determine the preliminary orbit of a celestial object based on tracking station observations. 
+This repository contains MATLAB code for implementing the Gauss method to determine the preliminary orbit of a celestial object based on tracking station observations. All equations are taken from [Orbital Mechanics for Engineering Students, 2nd Edition](https://www.sciencedirect.com/book/9780080977478/orbital-mechanics-for-engineering-students) by Howard D. Curtis.
 The provided script includes the following features:
 - **Tracking Station Position Calculation**: Determines the inertial position vector of the tracking station at multiple observation times considering Earth's flattening factor.
 - **Directional Cosine Vectors**: Computes unit vectors in the direction of the slant range vector.
@@ -52,3 +52,5 @@ Below is an example plot of the determined orbit:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
+## Citations
+- Howard D. Curtis, Orbital Mechanics for Engineering Students, Third Edition, 2010
