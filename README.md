@@ -35,19 +35,20 @@ To use this script, you need the following data:
 - *Latitude* of the tracking station.
 
 ## Usage
-Open "the gauss_orbit_determination.m" script in MATLAB and assign data to the input variables as per your needs. Execute the script to display intermediate results and plot the determined orbit.
+Open the [gauss_orbit_determination.m](./gauss_orbit_determination.m) script in MATLAB and assign data to the input variables as per your needs. Execute the script to display intermediate results and plot the determined orbit.
 
 ## Requirements
 - MATLAB
 - Basic understanding of orbital mechanics and celestial navigation
 
 ## Repository Structure 
-- gauss_orbit_determination.m: Main MATLAB script for orbit determination.
-- README.md: Description and usage instructions.
+- [gauss_orbit_determination.m](./gauss_orbit_determination.m): Main MATLAB script for orbit determination.
+- [README.md](./README.md): Description and usage instructions.
 
 ## Example Output
 Below is an example plot of the determined orbit:
+[ExamplePlot](https://github.com/ShreyasP36/GaussIOD/blob/main/Example_plot.png)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
