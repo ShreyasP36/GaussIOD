@@ -52,5 +52,5 @@ Below is an example plot of the determined orbit:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## Citations
+## Citation
 - Howard D. Curtis, Orbital Mechanics for Engineering Students, Third Edition, 2010
