@@ -47,7 +47,7 @@ Open the [gauss_orbit_determination.m](./gauss_orbit_determination.m) script in 
 
 ## Example Output
 Below is an example plot of the determined orbit:
-[ExamplePlot](https://github.com/ShreyasP36/GaussIOD/blob/main/Example_plot.png)
+![ExamplePlot](https://github.com/ShreyasP36/GaussIOD/blob/main/Example_plot.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
